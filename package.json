@@ -1,6 +1,6 @@
 {
   "name": "angelscripts-update-deps",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Updates package.json (dev)depdencies using `npm` command line under the hood.",
   "main": "index.js",
   "dependencies": {

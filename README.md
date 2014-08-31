@@ -5,7 +5,7 @@ Updates package.json (dev)depdencies using `npm` command line under the hood.
 ## setup
 
     $ cd myproject
-    $ npm install angelscripts-update-deps
+    $ npm install git@github.com:outbounder/angelscripts-update-deps.git
 
 ## usage
 
