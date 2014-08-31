@@ -1,0 +1,27 @@
+{
+  "name": "angelscripts-update-deps",
+  "version": "0.0.0",
+  "description": "Updates package.json (dev)depdencies using `npm` command line under the hood.",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^0.9.0",
+    "npm": "^2.0.0-beta.0",
+  },
+  "peerDependencies": {
+    "organic-angel": "~0.2.x"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Filipov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/outbounder/angelscripts-update-deps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/outbounder/angelscripts-update-deps/issues"
+  },
+  "homepage": "https://github.com/outbounder/angelscripts-update-deps"
+}
